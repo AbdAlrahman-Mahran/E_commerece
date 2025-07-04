@@ -22,7 +22,7 @@ A simple E-commerce simulation written in C# (.NET 8.0), demonstrating basic sho
 ## Build & Run
 1. **Clone the repository**:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/AbdAlrahman-Mahran/E_commerece.git
    cd E_commerece/E-commerce
    ```
 2. **Build the project:**
