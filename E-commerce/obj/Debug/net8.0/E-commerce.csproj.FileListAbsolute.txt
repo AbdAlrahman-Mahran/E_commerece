@@ -1,0 +1,14 @@
+C:\Users\abdel\source\repos\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.exe
+C:\Users\abdel\source\repos\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.deps.json
+C:\Users\abdel\source\repos\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.runtimeconfig.json
+C:\Users\abdel\source\repos\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.dll
+C:\Users\abdel\source\repos\E-commerce\E-commerce\bin\Debug\net8.0\E-commerce.pdb
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfoInputs.cache
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.AssemblyInfo.cs
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.csproj.CoreCompileInputs.cache
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.dll
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\refint\E-commerce.dll
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.pdb
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\E-commerce.genruntimeconfig.cache
+C:\Users\abdel\source\repos\E-commerce\E-commerce\obj\Debug\net8.0\ref\E-commerce.dll
