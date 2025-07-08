@@ -19,18 +19,8 @@ A simple E-commerce simulation written in C# (.NET 8.0), demonstrating basic sho
 ## Requirements
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
-## Build & Run
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/AbdAlrahman-Mahran/E_commerece.git
-   cd E_commerece/E-commerce
-   ```
-2. **Build the project:**
-   ```sh
-   dotnet build
-   ```
-3. **Run the application:**
-   ```sh
-   dotnet run
-   ```
+## Screenshots 
 
+![](1.png)
+
+![](2.png)
